@@ -1,0 +1,23 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+body{
+	background:html.jpg;
+}
+header{
+	text-align:center;
+	margin-bottom:0px;
+	background-color:#ababab;
+}
+section{
+	margin-bottom:0px;
+	margin-top:0px;
+	/*background-color:#ffffff; */
+	background:bg5.jpg;
+	min-height: 600px;
+}
+footer{
+	margin-top:0px;
+/* 	background-color:#ababab; */
+}
